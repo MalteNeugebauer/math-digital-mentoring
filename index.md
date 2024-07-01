@@ -1,15 +1,15 @@
 ---
 title: Digital Mentoring for Mathematics
-subtitle: Resources for Implementing Mentoring Approaches for Mathematical Learning in Learning Management Systems.
+subtitle: Free Resources for Mentoring Approaches in Mathematical E-Learning
 layout: page
-description: Mathematical exercises and analytics instruments for learning management systems such as Moodle or ILIAS.
+description: Free and open source resources for mathematical learning, i.e., exercises, Javascript toolboxes and analytics instruments for learning management systems such as Moodle or ILIAS.
 callouts: home_callouts
 ---
 
 Introducing text.
 
 # Demo
-Check out the (Moodle demo)[https://moodleresearch.hs-bochum.de/] (no login required).
+Check out the [online demo](https://moodleresearch.hs-bochum.de/?lang=en). The exercises, designs and learning analytics approaches are implemented within the learning management system [Moodle](https://moodle.org/).
 
 # Resources
 Here is a list of resources.

@@ -2,11 +2,11 @@ style: is-light
 items:
   - title: Exercises
     subtitle: For Study Entrance Phase
-    icon: fa-copy
+    icon: fa-square-root-variable
   - title: Features
     subtitle: Enrich Digital Learning
-    icon: fa-mail-bulk
+    icon: fa-arrow-up-right-dots
   - title: Learning Analytics
     subtitle: Monitoring Learning Behavior
-    icon: fa-github
+    icon: fa-users-viewfinder
     icon_brand: true
