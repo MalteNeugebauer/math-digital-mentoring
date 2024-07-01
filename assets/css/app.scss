@@ -2,11 +2,10 @@
 ---
 
 $body-background-color: #000000;
-$mycolor: #ABCDEF;
 $text: #FFFFFF;
 $primary: #FF0000;
 .my_custom_class {
-    color:$mycolor;
+    color: #ABCDEF;
 }
 //$block-spacing: 0.5rem !default;
 // Import Main CSS file from theme
