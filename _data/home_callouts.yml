@@ -8,5 +8,5 @@ items:
     icon: fa-lightbulb
   - title: Learning Analytics
     subtitle: Monitoring Learning Behavior
-    icon: fa-project-diagram
+    icon: fa-chart-bar
     icon_brand: true
