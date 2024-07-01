@@ -9,7 +9,7 @@ callouts: home_callouts
 Introducing text.
 
 # Demo
-Check out the [online demo](https://moodleresearch.hs-bochum.de/?lang=en). The exercises, designs and learning analytics approaches are implemented within the learning management system [Moodle](https://moodle.org/).
+Check out the [online demo](https://moodleresearch.hs-bochum.de/?lang=en). The exercises, designs and learning analytics approaches are implemented within the learning management system [Moodle](https://moodle.org/) without any additional plugins.
 
 # Resources
 Here is a list of resources.
