@@ -1,2 +1,6 @@
+- name: Exercises
+  link: /exercises/
 - name: Research
   link: /research/
+- name: GitHub
+  link: https://github.com/MalteNeugebauer/math-digital-mentoring
