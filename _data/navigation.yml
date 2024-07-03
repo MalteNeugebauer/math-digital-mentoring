@@ -1,5 +1,9 @@
 - name: Exercises
   link: /exercises/
+- name: Features
+  link: /features/
+- name: Analytics
+  link: /learning-analytics/
 - name: Research
   link: /research/
 - name: GitHub
