@@ -58,6 +58,7 @@ title: Digital Mentoring for Mathematics
 author: Malte Neugebauer
 lang: en
 description: Resources for implementing mentoring approaches for mathematical learning in learning management systems.
-remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
-plugins:
-- jekyll-remote-theme
+theme: minima
+#remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
+#plugins:
+#- jekyll-remote-theme
