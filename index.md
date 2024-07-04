@@ -11,7 +11,7 @@ The Digital Mentoring project offers free and open source resources for mathemat
 # Exercises
 <div class="columns is-tablet">
 <div class="column is-three-quarters-desktop is-half-tablet">
-<span markdown="1">We compiled </span><span class="dm-exercise-amount">61</span> exercises for study beginners with the help of the [STACK](https://stack-assessment.org/) plugin. These exercises give error adaptive feedback for known error patterns, so that learners can gradually improve their mathematical skills. These exercises have already successful been tested in mathematics preparatory courses of several universities. You can download the free and open source exercises (e.g., as [XML (german, normal design)](./question-files/questions-normal_ger.xml)) and include them in your LMS (Moodle / ILIAS). Check the [Exercises section](./exercises/) for further versions and information.</span>
+<span markdown="1">We compiled </span><span class="dm-exercise-amount">61</span><span markdown="1"> exercises for study beginners with the help of the [STACK](https://stack-assessment.org/) plugin. These exercises give error adaptive feedback for known error patterns, so that learners can gradually improve their mathematical skills. These exercises have already successful been tested in mathematics preparatory courses of several universities. You can download the free and open source exercises (e.g., as [XML (german, normal design)](./question-files/questions-normal_ger.xml)) and include them in your LMS (Moodle / ILIAS). Check the [Exercises section](./exercises/) for further versions and information.</span>
 </div>
 <div class="column is-half-tablet is-one-quarter-desktop">
 <img src="./img/demo_video_tutor.gif">
