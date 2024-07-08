@@ -1,10 +1,2 @@
-- name: Exercises
-  link: /exercises/
-- name: Features
-  link: /features/
-- name: Analytics
-  link: /learning-analytics/
-- name: Research
-  link: /research/
 - name: GitHub
   link: https://github.com/MalteNeugebauer/math-digital-mentoring

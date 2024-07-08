@@ -6,7 +6,7 @@ description: Free and open source resources for mathematical learning, i.e., exe
 callouts: home_callouts
 ---
 
-The Digital Mentoring project offers free and open source resources for mathematical learning in the learning management systems (LMS) [Moodle](https://moodle.org/) and [ILIAS](https://www.ilias.de/en/). The offered resources add interactive elements and learning analytics to the default LMS mechanisms. The project aims on lightweight implementations, that lecturers can easily adapt to their online courses with on-board tools of the LMS. Get an overview with the [demo implementation](https://moodleresearch.hs-bochum.de/?lang=en) or browse this site for specific information.
+The Digital Mentoring project offers free and open source resources for mathematical learning in the learning management systems (LMS) [Moodle](https://moodle.org/) and [ILIAS](https://www.ilias.de/en/). The offered resources add interactive elements and learning analytics to the default LMS mechanisms based on [STACK](https://stack-assessment.org/). The project aims on lightweight implementations, that lecturers can easily adapt to their online courses with on-board tools of the LMS. Get an overview with the [demo implementation](https://moodleresearch.hs-bochum.de/?lang=en) or browse this site for specific information.
 
 # Exercises
 <div class="columns is-tablet">
