@@ -1,0 +1,44 @@
+\documentclass[a4paper,twoside]{article}
+
+
+\usepackage{tikz}
+\usetikzlibrary{positioning}
+\usetikzlibrary{automata}
+\usetikzlibrary{arrows.meta}
+\usetikzlibrary{decorations.pathreplacing}
+
+\newcommand{\hopgraph}[2]{
+  %transform canvas={scale=0.75},
+  \begin{figure*}[!h]
+    \centering
+    \resizebox{\textwidth}{!}{%
+      \begin{tikzpicture}[scale=0.8,
+        x=2cm, auto, node distance=4cm, ->,
+        decoration={brace, mirror, amplitude=15pt, raise=20pt},
+        category/.style={-, blue!70, thick, decorate},
+        every state/.style={draw=blue!50,very thick,fill=blue!20},
+        boss/.style={draw=red!90!black!70, fill=red!40},
+        info/.style={draw=yellow!90!black!70, fill=yellow!40},
+        inout/.style={draw=green!80!black!60, fill=green!30, rectangle, minimum size=2em},
+        every edge/.style = {draw, -{Stealth[scale=1.2]}, bend angle=15}
+      ]
+        \input{drawing-#1.tex}
+      \end{tikzpicture}
+    }%
+    \caption{How users move along the #2 world.}
+    \label{fig:progress_#1}
+  \end{figure*}
+}
+
+\begin{document}
+
+\hopgraph{syntax}{syntax}
+\hopgraph{fractions}{fractions and binomial formulas}
+\hopgraph{pq formula}{pq forumla}
+\hopgraph{power laws}{power laws}
+\hopgraph{trigonometry}{trigonometry}
+
+
+
+\end{document}
+

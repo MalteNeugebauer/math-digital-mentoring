@@ -1,0 +1,9 @@
+\node [state] (sur_instructions) at (0, 0) {};
+\node [state] (survey) at (1, 0) {};
+\node [inout] (input) at (-1, 1) {};
+\node [inout] (output) at (2, 1) {};
+\path [line width=1.2pt, black!62] (input) edge [controls=+(80:1.0) and +(100:1.0)] node[inner sep=1pt, fill=white, fill opacity=0.7, text opacity=1] {$0.213$} (sur_instructions);
+\path [line width=1.6pt, black!94] (input) edge [controls=+(80:2.0) and +(100:2.0)] node[inner sep=1pt, fill=white, fill opacity=0.7, text opacity=1] {$0.787$} (survey);
+\path [line width=1.5pt, black!84] (sur_instructions) edge [controls=+(260:1.0) and +(-80:1.0)] node[inner sep=1pt, fill=white, fill opacity=0.7, text opacity=1] {$0.600$} (input);
+\path [line width=1.3pt, black!72] (sur_instructions) edge [controls=+(80:1.0) and +(100:1.0)] node[inner sep=1pt, fill=white, fill opacity=0.7, text opacity=1] {$0.400$} (survey);
+\path [line width=1.8pt, black!100] (survey) edge [controls=+(260:2.0) and +(-80:2.0)] node[inner sep=1pt, fill=white, fill opacity=0.7, text opacity=1] {$1.000$} (input);
