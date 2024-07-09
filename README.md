@@ -97,7 +97,7 @@ It is preferred to create a quiz from these questions in the following way.
 #### Files
 | Version | File (german) | File (english)  | Question Category | Tested with     |
 |---------|-------------- |-----------------|-------------|----|
-| Normal  | [questions-normal_ger.xml](question-files/questions-normal_ger.xml) | [questions-normal_en.xml](question-files/questions-normal_en.xml) |  |  Moodle 4.1-4.4      |
+| Normal  | [questions-normal_ger.xml](question-files/questions-normal_ger.xml) | [questions-normal_en.xml](question-files/questions-normal_en.xml) | test |  Moodle 4.1-4.4      |
 | Pedagogical Agent (Adaptive)      | N.A. | N.A.| Adaptive Learning Test|  Moodle 4.1-4.4      |
 | Pedagogical Agent (Instant Tutoring) | [questions-pa-its_ger.xml](question-files/questions-pa-its_ger.xml) | [questions-pa-its_en.xml](question-files/questions-pa-its_en.xml)| instant-tutoring |  Moodle 4.1-4.4      |
 | Fantasy Game      | [questions-rpg_ger.xml](question-files/questions-rpg_ger.xml) | [questions-rpg_en.xml](question-files/questions-rpg_en.xml)|  rpg  |  Moodle 4.1-4.4      |
