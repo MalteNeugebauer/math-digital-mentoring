@@ -62,11 +62,11 @@ To get an overview of the differenct versions, please refer to the [Live Demos](
 #### Files
 | Version | File (german) | File (english)  | Tested with     |
 |---------|-------------- |-----------------|-----------------|
-| Normal  | [backup-quiz-normal_ger.mbz](backup-files/backup-quiz-normal_ger.mbz) | Planned for Winter 2023-24| Moodle 4.1      |
-| Pedagogical Agent (Adaptive)      | [backup-quiz-normal_ger.mbz](backup-files/backup-pa-simple_ger.mbz) | [backup-quiz-normal_en.mbz](backup-files/backup-pa-simple_en.mbz)  | Moodle 4.1      |
-| Pedagogical Agent (Instant Tutoring) | [backup-quiz-instant-tutoring_ger.mbz](backup-files/backup-pa-instant-tutoring_ger.mbz) | Planned for Winter 2023-24  | Moodle 4.1      |
-| Fantasy Game      | [backup-fantasy_ger.mbz](backup-files/backup-fantasy_ger.mbz) | Planned for Winter 2023-24  |    Moodle 4.1      | 
-| All Versions | [backup-complete-course_ger.mbz](backup-files/backup-complete-course_ger.mbz) | Planned for Winter 2023-24  |   Moodle 4.1      |
+| Normal  | [backup-quiz-normal_ger.mbz](backup-files/backup-quiz-normal_ger.mbz) | [backup-quiz-normal_en.mbz](backup-files/backup-quiz-normal_en.mbz)| Moodle 4.1-4.4      |
+| Pedagogical Agent (Adaptive)      | [backup-quiz-normal_ger.mbz](backup-files/backup-pa-simple_ger.mbz) | [backup-quiz-normal_en.mbz](backup-files/backup-pa-simple_en.mbz)  | Moodle 4.1-4.4      |
+| Pedagogical Agent (Instant Tutoring) | [backup-quiz-instant-tutoring_ger.mbz](backup-files/backup-pa-instant-tutoring_ger.mbz) | [backup-quiz-instant-tutoring_en.mbz](backup-files/backup-pa-instant-tutoring_en.mbz)  | Moodle 4.1-4.4      |
+| Fantasy Game      | [backup-fantasy_ger.mbz](backup-files/backup-fantasy_ger.mbz) | [backup-fantasy_en.mbz](backup-files/backup-fantasy_en.mbz)  |    Moodle 4.1-4.4      | 
+| All Versions | [backup-complete-course_ger.mbz](backup-files/backup-complete-course_ger.mbz) | [backup-complete-course_en.mbz](backup-files/backup-complete-course_en.mbz)  |   Moodle 4.1-4.4      |
 
 
 ### Question Files (xml)
@@ -97,11 +97,11 @@ It is preferred to create a quiz from these questions in the following way.
 #### Files
 | Version | File (german) | File (english)  | Question Category | Tested with     |
 |---------|-------------- |-----------------|-------------|----|
-| Normal  | [questions-normal_ger.xml](question-files/questions-normal_ger.xml) | Planned for Winter 2023-24| test  |  Moodle 4.1      |
-| Pedagogical Agent (Adaptive)      | Planned for Winter 2023-24 | Planned for Winter 2023-24| Adaptive Learning Test|  Moodle 4.1      |
-| Pedagogical Agent (Instant Tutoring) | [questions-pa-its_ger.xml](question-files/questions-pa-its_ger.xml) | Planned for Winter 2023-24| instant-tutoring |  Moodle 4.1      |
-| Fantasy Game      | [questions-rpg_ger.xml](question-files/questions-rpg_ger.xml) | Planned for Winter 2023-24|  rpg  |  Moodle 4.1      |
-| All Versions | [questions-all_ger.xml](question-files/questions-all_ger.xml) | Planned for Winter 2023-24|  choose from above one by one  |  Moodle 4.1      | 
+| Normal  | [questions-normal_ger.xml](question-files/questions-normal_ger.xml) | [questions-normal_en.xml](question-files/questions-normal_en.xml) |  |  Moodle 4.1-4.4      |
+| Pedagogical Agent (Adaptive)      | N.A. | N.A.| Adaptive Learning Test|  Moodle 4.1-4.4      |
+| Pedagogical Agent (Instant Tutoring) | [questions-pa-its_ger.xml](question-files/questions-pa-its_ger.xml) | [questions-pa-its_en.xml](question-files/questions-pa-its_en.xml)| instant-tutoring |  Moodle 4.1-4.4      |
+| Fantasy Game      | [questions-rpg_ger.xml](question-files/questions-rpg_ger.xml) | [questions-rpg_en.xml](question-files/questions-rpg_en.xml)|  rpg  |  Moodle 4.1-4.4      |
+ 
 
 ## Insertable Code
 
@@ -115,12 +115,12 @@ When applying the code directly to other exercises, these information have to be
 
 [//]: # (### Files)
 
-| Version | File (german) | File (english)  | Yet empty column | Tested with     |
-|---------|-------------- |-----------------|-------------|----|
-| Normal  | No JavaScript included | No JavaScript included |   |  Moodle 4.1      |
-| Pedagogical Agent (Adaptive)      | [alquiz.js](script/alquiz.js) | [alquiz_en.js](script/alquiz_en.js) |  |  Moodle 4.1      |
-| Pedagogical Agent (Instant Tutoring) | [alquiz-qpool-instant-tutoring.js](script/alquiz-qpool-instant-tutoring.js) | Planned for Winter 2023-24|  |  Moodle 4.1      |
-| Fantasy Game      | [alquiz-fantasy-bg-ver3.js](script/alquiz-fantasy-bg-ver3.js) | Planned for Winter 2023-24|   |  Moodle 4.1      |
+| Version | File (german) | File (english)  | Tested with     |
+|---------|-------------- |-----------------|----|
+| Normal  | No JavaScript included | No JavaScript included |  Moodle 4.1-4.4      |
+| Pedagogical Agent (Adaptive)      | [alquiz.js](script/alquiz.js) | [alquiz_en.js](script/alquiz_en.js) |  Moodle 4.1-4.4      |
+| Pedagogical Agent (Instant Tutoring) | [alquiz-qpool-instant-tutoring.js](script/alquiz-qpool-instant-tutoring.js) | [alquiz-qpool-instant-tutoring-en.js](script/alquiz-qpool-instant-tutoring.js)|  Moodle 4.1-4.4      |
+| Fantasy Game      | [alquiz-fantasy-bg-ver3.js](script/alquiz-fantasy-bg-ver3.js) | [alquiz-fantasy-bg-ver3-en.js](script/alquiz-fantasy-bg-ver3.js)|  Moodle 4.1-4.4      |
 
 
 
