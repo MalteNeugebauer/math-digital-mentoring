@@ -64,7 +64,7 @@ To get an overview of the differenct versions, please refer to the [Live Demos](
 |---------|-------------- |-----------------|-----------------|
 | Normal  | [backup-quiz-normal_ger.mbz](backup-files/backup-quiz-normal_ger.mbz) | [backup-quiz-normal_en.mbz](backup-files/backup-quiz-normal_en.mbz)| Moodle 4.1-4.4      |
 | Pedagogical Agent (Adaptive)      | [backup-quiz-normal_ger.mbz](backup-files/backup-pa-simple_ger.mbz) | [backup-quiz-normal_en.mbz](backup-files/backup-pa-simple_en.mbz)  | Moodle 4.1-4.4      |
-| Pedagogical Agent (Instant Tutoring) | [backup-quiz-instant-tutoring_ger.mbz](backup-files/backup-pa-instant-tutoring_ger.mbz) | [backup-quiz-instant-tutoring_en.mbz](backup-files/backup-pa-instant-tutoring_en.mbz)  | Moodle 4.1-4.4      |
+| Pedagogical Agent (Instant Tutoring) | [backup-pa-instant-tutoring_ger.mbz](backup-files/backup-pa-instant-tutoring_ger.mbz) | [backup-pa-instant-tutoring_en.mbz](backup-files/backup-pa-instant-tutoring_en.mbz)  | Moodle 4.1-4.4      |
 | Fantasy Game      | [backup-fantasy_ger.mbz](backup-files/backup-fantasy_ger.mbz) | [backup-fantasy_en.mbz](backup-files/backup-fantasy_en.mbz)  |    Moodle 4.1-4.4      | 
 | All Versions | [backup-complete-course_ger.mbz](backup-files/backup-complete-course_ger.mbz) | [backup-complete-course_en.mbz](backup-files/backup-complete-course_en.mbz)  |   Moodle 4.1-4.4      |
 
