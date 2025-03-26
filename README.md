@@ -23,14 +23,16 @@ Examples of the same exercise in the pedagogical agent design (left) and in the 
 Example of three different feedbacks offered by the STACK plugin in the pedagogical agent design.
 
 ## Live Demos
-[Moodle course with all demos](https://hsbo-clone.ebwl-oer.de/course/view.php?id=14)
+[Moodle system with all demos](https://moodleresearch.hs-bochum.de/)
 
-The demos run in an open Moodle system of Bochum UAS. You are logged in automatically after a short period of time. Then the learning material can be started by clicking the "Attempt quiz" button.
+The demos run in an open Moodle system of Bochum University of Applied Sciences. You are logged in automatically with a guest account. Then the learning material can be started by clicking the "Attempt quiz" button.
 
-- The version [Pedagogical Agent (Adaptive)](https://hsbo-clone.ebwl-oer.de/mod/quiz/view.php?id=145) is characterized by learners being directed to different questions depending on whether or not they correctly solve the "boss" tasks.
-- The version [Pedagogical Agent (Instant Tutoring)](https://hsbo-clone.ebwl-oer.de/mod/quiz/view.php?id=1699) is characterized by immediate feedback that is provided to the learners while they are still solving the exercise.
-- The [Fantasy Game](https://hsbo-clone.ebwl-oer.de/mod/quiz/view.php?id=1700) version ties the tasks into a medieval story and adapts the learning environment accordingly.
-- The [Plain](https://hsbo-clone.ebwl-oer.de/mod/quiz/view.php?id=1698) version shows how the questions appear by default and serves as a control design for research projects with an experimental approach.
+[//]: # (The following version does not exist anymore in the new public system. The version Pedagogical Agent Adaptive https://hsbo-clone.ebwl-oer.de/mod/quiz/view.php?id=145 is characterized by learners being directed to different questions depending on whether or not they correctly solve the "boss" tasks.)
+
+- The version [Pedagogical Agent (Instant Tutoring)](https://moodleresearch.hs-bochum.de/mod/quiz/view.php?id=12&authorizedguest) is characterized by immediate feedback that is provided to the learners while they are still solving the exercise.
+- The [Fantasy Game](https://moodleresearch.hs-bochum.de/mod/quiz/view.php?id=11&authorizedguest) version ties the tasks into a medieval story and adapts the learning environment accordingly.
+- The [Plain](https://moodleresearch.hs-bochum.de/mod/quiz/view.php?id=6&authorizedguest) version shows how the questions appear by default and serves as a control design for research projects with an experimental approach.
+- The version Pedagogical Agent (Adaptive) is characterized by learners being directed to different questions depending on whether or not they correctly solve the "boss" tasks. (Currently no demo available.)
 
 ## LMS-readable Packages
 
@@ -105,7 +107,7 @@ It is preferred to create a quiz from these questions in the following way.
 
 ## Insertable Code
 
-Instead of using a given set of questions as in the [LMS-readable Packages Section](#lms-readable-packages) the code can also be applied to other questions. Currently, only questions of the type STACK are supported. If you want to apply one of the designs to other question types (e.g., multiple-choice, fill-the-gap, ...) please contact the [repository owner](mailto:malte.neugebauer@hs-bochum.de) for support.
+Instead of using a given set of questions as in the [LMS-readable Packages Section](#lms-readable-packages) the code can also be applied to other questions. Currently, only questions of the type STACK are supported. If you want to apply one of the designs to other question types (e.g., multiple-choice, fill-the-gap, ...) please contact the [repository owner](mailto:malte.neugebauer@w-hs.de) for support.
 
 It is important to consider that each design carries additional information that are either saved in the script or in an additional configuration element that is included in the LMS by importing the exercise files. These information are e.g., how exercises relate to each other in the "Pedagogical Agent (Adaptive)" design or the colors of the fairies in the "Fantasy Game" design.
 

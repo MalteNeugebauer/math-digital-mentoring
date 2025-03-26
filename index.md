@@ -57,7 +57,7 @@ The following research articles have emerged from the project.
 </figure>
 </div>
 <div class="column">
-<span markdown="1">I would be happy to help you use the materials in your courses. Please don't hesitate to contact me: [malte.neugebauer@hs-bochum.de](mailto:malte.neugebauer@hs-bochum.de).</span>
+<span markdown="1">I would be happy to help you use the materials in your courses. Please don't hesitate to contact me: [malte.neugebauer@w-hs.de](mailto:malte.neugebauer@w-hs.de).</span>
 <div class="column is-narrow is-hidden-tablet has-text-centered">
 <figure class="image is-128x128 is-inline-block has-text-centered">
   <img class="is-rounded is-1by1" src="./img/mn_profile.png" />
